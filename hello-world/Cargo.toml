@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 async-trait="0.1"
 pingora = { version = "0.1", features = [ "lb" ] }
+yaml-rust = "0.4.5"
